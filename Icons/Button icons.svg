@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="210mm" height="297mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 21000 29700"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:black;stroke-width:7.62}
+    .fil1 {fill:none}
+    .fil4 {fill:black}
+    .fil6 {fill:blue}
+    .fil5 {fill:red}
+    .fil0 {fill:black;fill-rule:nonzero}
+    .fil3 {fill:blue;fill-rule:nonzero}
+    .fil2 {fill:red;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <path class="fil0" d="M3826 7481l0 -735 159 0 -319 -736 -319 736 159 0 0 735 320 0zm0 -368m79 -367m-79 -368m-320 0m-80 368m80 367m160 368"/>
+  <rect class="fil1 str0" x="2499" y="10213" width="2334" height="1706" rx="209" ry="153"/>
+  <rect class="fil1 str0" x="2499" y="8041" width="2334" height="1706" rx="209" ry="153"/>
+  <rect class="fil1 str0" x="2499" y="5892" width="2334" height="1706" rx="209" ry="153"/>
+  <path class="fil2" d="M2927 7065l0 -319 115 0 -229 -320 -230 320 115 0 0 319 229 0zm0 -159m58 -160m-58 -160m-229 0m-57 160m57 160m115 159"/>
+  <path class="fil2" d="M2927 8574l0 320 115 0 -229 320 -230 -320 115 0 0 -320 229 0zm0 160m58 160m-58 160m-229 0m-57 -160m57 -160m115 -160"/>
+  <path class="fil2" d="M2890 11282l0 -215 77 0 -154 -215 -155 215 78 0 0 215 154 0zm0 -108m38 -107m-38 -108m-154 0m-39 108m39 107m77 108"/>
+  <path class="fil3" d="M4612 7065l0 -319 114 0 -229 -320 -230 320 115 0 0 319 230 0zm0 -159m57 -160m-57 -160m-230 0m-57 160m57 160m115 159"/>
+  <path class="fil3" d="M4612 9214l0 -320 114 0 -229 -320 -230 320 115 0 0 320 230 0zm0 -160m57 -160m-57 -160m-230 0m-57 160m57 160m115 160"/>
+  <path class="fil3" d="M4612 11386l0 -319 114 0 -229 -320 -230 320 115 0 0 319 230 0zm0 -159m57 -160m-57 -160m-230 0m-57 160m57 160m115 159"/>
+  <g id="_824453264">
+   <polygon class="fil0" points="3964,11362 3754,10999 3892,10919 3197,10352 3339,11238 3478,11158 3679,11506 "/>
+   <rect class="fil4" x="3644" y="11362" width="319" height="419"/>
+  </g>
+  <path class="fil4" d="M3648 8299c328,0 595,266 595,595 0,328 -267,595 -595,595 -155,0 -295,-59 -401,-155l149 -164c66,61 155,98 252,98 206,0 374,-168 374,-374 0,-207 -168,-374 -374,-374 -90,0 -172,31 -236,84l121 56 -208 158 -208 159 -14 -261 -14 -261 109 50c109,-126 270,-206 450,-206z"/>
+  <rect class="fil1 str0" x="6303" y="10213" width="2334" height="1706" rx="209" ry="153"/>
+  <rect class="fil1 str0" x="6303" y="8041" width="2334" height="1706" rx="209" ry="153"/>
+  <path class="fil2" d="M6732 9214l0 -320 114 0 -229 -320 -230 320 115 0 0 320 230 0zm0 -160m57 -160m-57 -160m-230 0m-57 160m57 160m115 160"/>
+  <path class="fil2" d="M6732 11386l0 -319 114 0 -229 -320 -230 320 115 0 0 319 230 0zm0 -159m57 -160m-57 -160m-230 0m-57 160m57 160m115 159"/>
+  <path class="fil3" d="M8378 11282l0 -215 77 0 -154 -215 -154 215 77 0 0 215 154 0zm0 -108m39 -107m-39 -108m-154 0m-39 108m39 107m77 108"/>
+  <path class="fil3" d="M8416 8574l0 320 114 0 -229 320 -229 -320 114 0 0 -320 230 0zm0 160m57 160m-57 160m-230 0m-57 -160m57 -160m115 -160"/>
+  <g id="_824334112">
+   <polygon class="fil0" points="7172,11362 7382,10999 7244,10919 7939,10352 7797,11238 7659,11158 7458,11506 "/>
+   <rect class="fil4" x="7172" y="11362" width="319" height="419"/>
+  </g>
+  <path class="fil4" d="M7488 8299c-328,0 -594,266 -594,595 0,328 266,595 594,595 155,0 295,-59 401,-155l-149 -164c-66,61 -155,98 -252,98 -206,0 -373,-168 -373,-374 0,-207 167,-374 373,-374 90,0 172,31 236,84l-121 56 208 158 208 159 14 -261 14 -261 -109 50c-109,-126 -270,-206 -450,-206z"/>
+  <rect class="fil1 str0" x="2499" y="3638" width="2334" height="1706" rx="209" ry="153"/>
+  <rect class="fil5" x="2640" y="4318" width="345" height="345"/>
+  <rect class="fil6" x="4324" y="4318" width="345" height="345"/>
+  <rect class="fil4" x="3362" y="4187" width="607" height="607"/>
+ </g>
+</svg>
